@@ -11,7 +11,7 @@ var PhoneListController = (function () {
 angular.
     module('phoneList').
     component('phoneList', {
-    templateUrl: 'phone-list/phone-list.template.html',
+    templateUrl: 'app/phone-list/phone-list.template.html',
     controller: ['Phone', PhoneListController]
 });
 //# sourceMappingURL=phone-list.component.js.map

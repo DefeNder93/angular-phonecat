@@ -238,7 +238,7 @@ app/                     --> all the source code of the app (along with unit tes
   phone-list/...         --> files for the `phoneList` module, including JS source code, HTML templates, specs
   phones/...             --> static JSON files with phone data (used to fake a backend API)
   app.animations.css     --> hooks for running CSS animations with `ngAnimate`
-  app.animations.js      --> hooks for running JS animations with `ngAnimate`
+  app.animations.ts      --> hooks for running JS animations with `ngAnimate`
   app.config.js          --> app-wide configuration of Angular services
   app.css                --> default stylesheet
   app.module.js          --> the main app module
